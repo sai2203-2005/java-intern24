@@ -1,0 +1,12 @@
+Metric,Value
+Total Records,7
+Valid Records,5
+Invalid Records,2
+Average Salary,47600.00
+Minimum Salary,40000.0
+Maximum Salary,55000.0
+
+Department,EmployeeCount,AverageSalary
+Finance,2,44000.00
+HR,1,50000.00
+IT,2,50000.00
